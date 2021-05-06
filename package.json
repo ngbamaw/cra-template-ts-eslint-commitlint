@@ -1,0 +1,37 @@
+{
+  "name": "cra-template-ts-eslint-commitlint",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "eslint",
+    "prettier",
+    "commitlint",
+    "jest",
+    "testing-library"
+  ],
+  "description": "My personal Create React App template with TypeScript, Eslint, Prettier, Commitlint",
+  "repository": {
+    "url": "https://github.com/ngbamaw/cra-template-ts-eslint-commitlint",
+    "type": "git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "tag": "latest",
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/ngbamaw/cra-template-ts-eslint-commitlint/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
